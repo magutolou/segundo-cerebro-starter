@@ -12,7 +12,7 @@ de tudo e funciona offline.
 ## Comeco rapido
 
 ```bash
-git clone URL-DESTE-REPO segundo-cerebro
+git clone https://github.com/magutolou/segundo-cerebro-starter.git segundo-cerebro
 cd segundo-cerebro
 ```
 

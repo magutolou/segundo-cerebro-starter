@@ -90,7 +90,7 @@ cerebro") — cada `SKILL.md` tem uma lista de triggers no frontmatter.
 Escolha uma pasta onde o cerebro vai morar (ex.: `Documentos`) e clone:
 
 ```bash
-git clone URL-DO-STARTER segundo-cerebro
+git clone https://github.com/magutolou/segundo-cerebro-starter.git segundo-cerebro
 cd segundo-cerebro
 ```
 
